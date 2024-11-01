@@ -1,0 +1,35 @@
+body {
+  background-color: #C4BCBA;
+}
+
+h1 { 
+  color: #905184;
+  margin-bottom: 10px; 
+}
+
+#page-title { 
+  font-family: sans-serif; 
+}
+
+.title { 
+  font-family: monospace;
+}
+
+#main-nav { 
+  margin-top: 10px; 
+  list-style: none;
+  padding-left: 0; 
+}
+
+#main-nav li { 
+  display: inline-block;
+}
+
+#main-nav a {
+  color: gray; 
+  background-color: black;
+  padding: 5px;
+  border-radius: 2px; 
+  text-decoration: none;
+}
+
